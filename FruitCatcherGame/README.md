@@ -16,11 +16,11 @@ For this project, we employed a Deep Q-Network (DQN), which is an algorithm that
 
 The DQN model was trained for different numbers of episodes to analyze its learning process:
 - **1 Episode**: A preliminary training session with limited learning.
-  - [Model File - 1 Episode](FruitCatcherGame/Explanations/models/Fruit_Catcher.h5)
+  - [Model File - 1 Episode](Explanations/models/Fruit_Catcher.h5)
 - **10 Episodes**: A short training period with some learning.
-  - [Model File - 10 Episodes](FruitCatcherGame/Explanations/models/FruitCatcher10.h5)
+  - [Model File - 10 Episodes](Explanations/models/FruitCatcher10.h5)
 - **100 Episodes**: A longer training period allowing the model to better understand the game environment.
-  - [Model File - 100 Episodes](FruitCatcherGame/Explanations/models/FruitCatcher100.h5)
+  - [Model File - 100 Episodes](Explanations/models/FruitCatcher100.h5)
 
 
 ## 3. Explanations Used
