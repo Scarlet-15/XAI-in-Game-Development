@@ -31,12 +31,10 @@ To understand why the trained RL agent makes certain decisions, we employed two 
 
 SHAP is a method for interpreting the output of machine learning models. It assigns importance scores to input features based on their contribution to the model's prediction. In the Fruit Catcher game, SHAP values help in identifying which aspects of the game state influence the agent's decisions.
 
-![SHAP Explanation Sample](![image](https://github.com/user-attachments/assets/e23715aa-fda7-4083-ad11-d9421551e9ef)
-)  <!-- Replace 'link_to_shap_image_here' with the actual URL for the SHAP explanation image in your repository -->
+![image](https://github.com/user-attachments/assets/e23715aa-fda7-4083-ad11-d9421551e9ef)  <!-- Replace 'link_to_shap_image_here' with the actual URL for the SHAP explanation image in your repository -->
 
 ### (ii) Counterfactual Explanations
 
 Counterfactual explanations provide insight into the model's decisions by illustrating how altering certain inputs would change the outcome. For example, if the basket's position was different, how would the agent's action choice change?
 
-![Counterfactual Explanation Sample](![image](https://github.com/user-attachments/assets/84e5d016-a8d4-4e5d-8940-9c249bc704ad)
-)  <!-- Replace 'link_to_counterfactual_image_here' with the actual URL for the Counterfactual explanation image in your repository -->
+![image](https://github.com/user-attachments/assets/84e5d016-a8d4-4e5d-8940-9c249bc704ad)  <!-- Replace 'link_to_counterfactual_image_here' with the actual URL for the Counterfactual explanation image in your repository -->
