@@ -4,7 +4,7 @@
 
 The Fruit Catcher game is an engaging and interactive reinforcement learning environment where a player controls a basket that moves horizontally at the bottom of the screen. The objective is to catch falling fruits to score points. Each successful catch increases the score, while missed fruits decrease the score or can potentially end the game. This setup provides a platform to train and evaluate reinforcement learning models, focusing on optimizing the agent's decision-making to achieve the highest score.
 
-![Fruit Catcher Game](![image](https://github.com/user-attachments/assets/1108b0bb-e90f-48f2-9167-48611105905d))  <!-- Replace 'link_to_game_image_here' with the actual URL for the game image in your repository -->
+![image](https://github.com/user-attachments/assets/1108b0bb-e90f-48f2-9167-48611105905d)  <!-- Replace 'link_to_game_image_here' with the actual URL for the game image in your repository -->
 
 ## 2. Reinforcement Learning Model Used
 
