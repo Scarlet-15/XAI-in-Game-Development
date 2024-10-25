@@ -20,9 +20,6 @@ We evaluate the explanations based on several metrics, including fidelity, unamb
 ## Folder Descriptions
 - **FruitCatcherGame**: Contains code for the Fruit Catcher game, including training scripts, explanation visualizations, and models.
 - **ShooterGame**: Contains code and datasets for the Shooter game, along with explanation methods and game logic.
-- **Explanations**: Implementations of various XAI techniques.
-- **models**: Pre-trained models used in the experiments.
-- **Dataset**: Contains image datasets and annotations used in the Shooter game.
 
 ## Explainability Techniques
 
